@@ -19,7 +19,7 @@ import numpy as np
 from datetime import datetime
 
 # Reading the Excel file
-data_dictionary_path = 'C:/Users/huyen/My Drive/UCR_Drive/Apply Job 2022/Navy Federal Credit Union/Data Dictionary.xlsx'
+data_dictionary_path = 'C:/Users/huyen/My Drive/UCR_Drive/Data Dictionary.xlsx'
 data_dictionary = pd.read_excel(data_dictionary_path)
 
 # Displaying the first few rows to understand the contents
